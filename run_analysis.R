@@ -1,9 +1,11 @@
 #
-# Process_WearComp_Data.R
+# Script Name: run_analysis.R
 #
+# Created: 2015/10/24
 #
-#
-#
+# The script downloads data collected from the accelerometers of Samsung 
+#    Galaxy S smartphones. It then transforms the raw data into a tidy 
+#    data set. The scipt also generates a second data set with averages.
 #
 
 # stats processing
