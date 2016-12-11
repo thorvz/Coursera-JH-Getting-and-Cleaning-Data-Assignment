@@ -35,8 +35,7 @@ Both the Main and Summary data sets contain the same columns described further b
 ## Column Description 
 
 These signals were used to estimate variables of the feature vector for each pattern: 
-
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 tBodyAcc-XYZ
 
@@ -72,7 +71,9 @@ fBodyGyroMag
 
 fBodyGyroJerkMag 
 
-**For each of the above the following is provided:**
+
+
+For each of the above the following is provided:
 
 mean(): Mean value
 
